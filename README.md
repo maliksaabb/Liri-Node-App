@@ -49,3 +49,7 @@ node liri.js help
     *OMDB,*
 * Git
 * GitHub
+
+### Command executions:
+* Node liri.js Spotify-this-song <song name>
+    ![](spotifytthissong.gif)
