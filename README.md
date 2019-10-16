@@ -11,3 +11,14 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
 * movie-this
 
 * do-what-it-says
+
+## HOW TO USE LIRI
+### Video Guide
+ https://www.youtube.com/watch?v=ja9taAZVHKs 
+
+Step by Step instructions
+Open your terminal such as Bash.
+
+Navigate to the folder that contains the liri.js file.
+
+Depending on the command you run, the output will vary.
