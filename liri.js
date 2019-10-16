@@ -10,7 +10,7 @@ var spotify = new Spotify(keys.spotify);
 var userOption = process.argv[2]; 
 var inputParameter = process.argv[3];
 
-//Execute function
+//function execution
 UserInputs(userOption, inputParameter);
 
 //FUNCTIONS
@@ -29,7 +29,7 @@ function UserInputs (userOption, inputParameter){
         showSomeInfo();
         break;
     default: 
-        console.log("Invalid Option. Please type any of the following options: \nconcert-this \nspotify-this-song \nmovie-this \ndo-what-it-says")
+        console.log("Invalid Option. Please try these options: \nconcert-this \nspotify-this-song \nmovie-this \ndo-what-it-says")
     }
 }
 
@@ -41,8 +41,8 @@ function showConcertInfo(inputParameter){
     if (!error && response.statusCode === 200) {
         var concerts = JSON.parse(body);
         for (var i = 0; i < concerts.length; i++) {  
-            console.log("**********EVENT INFO*********");  
-            fs.appendFileSync("log.txt", "**********EVENT INFO*********\n");//Append in log.txt file
+            console.log("*******EVENT INFO******");  
+            fs.appendFileSync("log.txt", "********EVENT INFO*******\n");//Append in log.txt file
             console.log(i);
             fs.appendFileSync("log.txt", i+"\n");
             console.log("Name of the Venue: " + concerts[i].venue.name);
@@ -77,7 +77,7 @@ function showSongInfo(inputParameter) {
             var songs = data.tracks.items;
 
             for (var i = 0; i < songs.length; i++) {
-                console.log("**********SONG INFO*********");
+                console.log("********SONG INFO*******");
                 fs.appendFileSync("log.txt", "**********SONG INFO*********\n");
                 console.log(i);
                 fs.appendFileSync("log.txt", i +"\n");
@@ -138,7 +138,7 @@ function showMovieInfo(inputParameter){
 
 });}
 
-//function to get proper Rotten Tomatoes Rating
+//function for Rotten Tomatoes Rating
 function getRottenTomatoesRatingObject (data) {
     return data.Ratings.find(function (item) {
        return item.Source === "Rotten Tomatoes";
