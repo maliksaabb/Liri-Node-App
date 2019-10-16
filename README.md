@@ -52,4 +52,4 @@ node liri.js help
 
 ### Command executions:
 * Node liri.js Spotify-this-song <song name>
-    * ![!](spotifytthissong.gif)
+    * ![!](https://github.com/maliksaabb/Liri-Node-App/blob/master/gifdemos/spotifythissong.gif)
