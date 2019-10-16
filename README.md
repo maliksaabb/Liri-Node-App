@@ -1,6 +1,7 @@
 # Liri-Node-App
-HW# 8 / Nodejs Assignment / 
-ABOUT THE APP
+HW# 8 / Nodejs Assignment /  
+<br>
+<h1>ABOUT THE APP<h1>
 LIRI is a Language Interpretation and Recognition Interface. LIRI is a command line node app that takes in parameters and gives back data. The user has the option of using four commands (listed below) in conjuntion with specific parameters associated with the commands. The Commands are:
 
 concert-this

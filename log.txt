@@ -910,3 +910,17 @@ preview song: https://p.scdn.co/mp3-preview/bec8edadb2e2f00511bd60dc6dcc00bb8b1f
 album: Yad Mala Jotibach
 artist(s): Vijay Sartape
 *****************************
+**********SONG INFO*********
+0
+song name: Panj Aitvar Bhagta
+preview song: https://p.scdn.co/mp3-preview/b1b8b85d076634c1f2f6acad172b28ef5d4f1bdf?cid=714291a75675454d957c7c079736216c
+album: Mela Lageya Jogi De
+artist(s): Balwinder Mattewaria
+*****************************
+**********SONG INFO*********
+1
+song name: Vaar Devacha Aitvar
+preview song: https://p.scdn.co/mp3-preview/bec8edadb2e2f00511bd60dc6dcc00bb8b1f3296?cid=714291a75675454d957c7c079736216c
+album: Yad Mala Jotibach
+artist(s): Vijay Sartape
+*****************************
