@@ -36,6 +36,11 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
 * node liri.js do-what-it-says
 
 
+## Deployed Version LINK
+
+https://github.com/maliksaabb/Liri-Node-App
+
+
 ### TECHNOLOGIES USED
 * Javascript
 * Nodejs
