@@ -16,9 +16,9 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
 ### Video Guide
  https://www.youtube.com/watch?v=ja9taAZVHKs 
 
-Step by Step instructions
-Open your terminal such as Bash.
+### Step by Step instructions
+* Open terminal.
 
-Navigate to the folder that contains the liri.js file.
+* Navigate to the folder that contains the liri.js file.
 
-Depending on the command you run, the output will vary.
+* Depending on the command you run, the output will vary.
