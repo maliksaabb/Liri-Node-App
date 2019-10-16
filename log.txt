@@ -867,3 +867,46 @@ Language: English
 Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
 Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
 *****************************
+********EVENT INFO*******
+0
+Name of the Venue: STAR LOUNGE
+Venue Location: 東京都
+Date of the Event: 2019-11-23T00:30:00
+*****************************
+-----------------------
+If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/
+It's on Netflix!
+**********MOVIE INFO*********
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 67%
+Country of Production: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+*****************************
+**********MOVIE INFO*********
+Title: Inception
+Release Year: 2010
+IMDB Rating: 8.8
+Rotten Tomatoes Rating: 87%
+Country of Production: USA, UK
+Language: English, Japanese, French
+Plot: A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.
+Actors: Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy
+*****************************
+**********SONG INFO*********
+0
+song name: Panj Aitvar Bhagta
+preview song: https://p.scdn.co/mp3-preview/b1b8b85d076634c1f2f6acad172b28ef5d4f1bdf?cid=714291a75675454d957c7c079736216c
+album: Mela Lageya Jogi De
+artist(s): Balwinder Mattewaria
+*****************************
+**********SONG INFO*********
+1
+song name: Vaar Devacha Aitvar
+preview song: https://p.scdn.co/mp3-preview/bec8edadb2e2f00511bd60dc6dcc00bb8b1f3296?cid=714291a75675454d957c7c079736216c
+album: Yad Mala Jotibach
+artist(s): Vijay Sartape
+*****************************
