@@ -53,3 +53,12 @@ node liri.js help
 ### Command executions:
 * Node liri.js Spotify-this-song <song name>
     * ![!](https://github.com/maliksaabb/Liri-Node-App/blob/master/gifdemos/spotifythissong.gif)
+    
+* Node liri.js concert-this <artist/band name>
+  * ![](https://github.com/maliksaabb/Liri-Node-App/blob/master/gifdemos/concertthis.gif)
+  
+* node liri.js movie-this <movie name>
+  * ![](https://github.com/maliksaabb/Liri-Node-App/blob/master/gifdemos/moviethis.gif)
+
+*  node liri.js do-what-it-says
+  * ![](https://github.com/maliksaabb/Liri-Node-App/blob/master/gifdemos/dowhatitsays.gif)
