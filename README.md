@@ -40,12 +40,12 @@ node liri.js help
 * Javascript
 * Nodejs
 * Node packages:
-    *Node-Spotify-API*
-    *Request*
-    *Moment*
-    *DotEnv*
+    *Node-Spotify-API,*
+    *Request,*
+    *Moment,*
+    *DotEnv,*
 * APIs used:
-    *Bands in Town*
-    *OMDB*
+    *Bands in Town,*
+    *OMDB,*
 * Git
 * GitHub
