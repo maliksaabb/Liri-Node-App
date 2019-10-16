@@ -13,6 +13,19 @@ LIRI is a Language Interpretation and Recognition Interface. LIRI is a command l
 * do-what-it-says
 
 ## HOW TO USE LIRI
+
+### Summary
+*liri-node-app connects with spotify, run commands and outputs the user their desired results*
+
+* node liri.js concert-this <artist/band name>
+
+* node liri.js spotify-this-song <song name>
+
+* node liri.js movie-this <movie name>
+
+* node liri.js do-what-it-says
+
+node liri.js help
 ### Video Guide
  https://www.youtube.com/watch?v=ja9taAZVHKs 
 
