@@ -35,3 +35,17 @@ node liri.js help
 * Navigate to the folder that contains the liri.js file.
 
 * Depending on the command you run, the output will vary.
+
+### TECHNOLOGIES USED
+* Javascript
+* Nodejs
+* Node packages:
+    *Node-Spotify-API*
+    *Request*
+    *Moment*
+    *DotEnv*
+* APIs used:
+    *Bands in Town*
+    *OMDB*
+* Git
+* GitHub
